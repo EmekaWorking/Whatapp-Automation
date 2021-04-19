@@ -1,0 +1,3 @@
+import pywhatkit
+
+pywhatkit.sendwhatmsg('+44 7478295653', 'Testing', 20, 49)
